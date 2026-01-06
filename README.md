@@ -1,4 +1,4 @@
 # my_calculator
 Calculator with CI/CD pipeline
 
-Add-Content -Path README.md -Value "`n## CI/CD Status: Active"
+n## CI/CD Status: Active
